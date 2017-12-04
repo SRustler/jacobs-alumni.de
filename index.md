@@ -4,10 +4,6 @@ title: Home
 notitle: true
 ---
 
-<figure class="uk-width-1-1">
-  <img class="uk-width-1-1" src="{{ site.mediaUrl }}mission.png" />
-</figure>
-
 <div class="uk-clearfix">
   <p style="font-size: 24pt; color: #073763; text-align: center; ">&ldquo;</p>
 </div>
@@ -19,6 +15,10 @@ notitle: true
 <div class="uk-clearfix">
   <p style="font-size: 24pt; color: #073763; text-align: center; ">&rdquo;</p>
 </div>
+
+<figure class="uk-width-1-1">
+  <img class="uk-width-1-1" src="{{ site.mediaUrl }}mission.png" />
+</figure>
 
 ### Our mission - For the Association and for Alumni
 
@@ -33,7 +33,7 @@ Jacobs University has been through turbulent times.
 In all the change processes the Alumni Association considers itself as a constant and *steward of the Jacobs Spirit*. 
 With our increasingly stronger voice, we want to actively shape the University and ensure the Jacobs Spirit lives on and continues to have a lasting *impact on the Jacobs community and the world*.
 
-We are Jacobs - Join us!
+### We are Jacobs - Join us!
 
 [Get in touch](mailto:board@jacobs-alumni.de) and [sign-up](/join/) for the Association *now!*
 
